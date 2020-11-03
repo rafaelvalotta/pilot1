@@ -7,4 +7,3 @@ update = 35
 
 update 2 = 70
 
-update 3 = 105
